@@ -4,7 +4,7 @@ Tested on Chrome, Edge and Firefox.
 
 This does not work well on Google's new layout. 
 You can downgrade to the old one here: https://greasyfork.org/en/scripts/32906-get-me-old-youtube.
-Performance improvments with this script are probably negligible however I haven't tested.
+Performance improvments with this script are probably negligible however I haven't tested this myself.
 
 ## Setup
 1. Install [Tampermonkey](https://tampermonkey.net)
