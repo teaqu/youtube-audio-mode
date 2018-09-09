@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Youtube Audio Mode
 // @description Listen to only the audio on YouTube without loading the video.
-// @version     1.1
+// @version     1.1.1
 // @include     https://www.youtube.com/*
 // @license     GPL-3.0+; http://www.gnu.org/licenses/gpl-3.0.txt
 // @run-at      document-start
