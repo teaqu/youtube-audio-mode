@@ -53,6 +53,8 @@
     async function addAudoModeToMenu() {
         let audioMode = await GM.getValue("ytAudioMode", true);
         let panel = document.getElementsByClassName("ytp-panel-menu")[0];
+        if (panel.innerHTML.includes("Audio Mode")) return;
+
         panel.innerHTML += `
             <div class="ytp-menuitem"
                 aria-checked="${audioMode}"
