@@ -49,6 +49,7 @@
             <div class="ytp-menuitem"
                 aria-checked="${audioMode}"
                 id="audio-mode">
+                <div class="ytp-menuitem-icon"></div>
                 <div class="ytp-menuitem-label">Audio Mode</div>
                 <div class="ytp-menuitem-content">
                     <div class="ytp-menuitem-toggle-checkbox">
